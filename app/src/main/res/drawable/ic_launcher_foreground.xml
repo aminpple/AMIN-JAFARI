@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Top hanger chain/stem of the chandelier -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M52,20h4v15h-4z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M48,32h12v3H48z" />
+
+    <!-- Stylized arch arms of the chandelier -->
+    <!-- Center fixture -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M51,35h6a3,3 0 0 1 3,3v20a9,9 0 0 1 -12,0v-20a3,3 0 0 1 3,-3z" />
+    
+    <!-- Left arm curve -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M52,43 C42,43 32,48 32,58 C32,60 34,62 36,62 C38,62 40,60 40,58 C40,52 48,48 52,47z" />
+    
+    <!-- Right arm curve -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M56,43 C66,43 76,48 76,58 C76,60 74,62 72,62 C70,62 68,60 68,58 C68,52 60,48 56,47z" />
+
+    <!-- Center Light bulb & glow -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M53,42a5,5 0 1,1 0,10 5,5 0 1,1 0,-10" />
+
+    <!-- Left Light bulb -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M35,54a3,3 0 1,1 0,6 3,3 0 1,1 0,-6" />
+
+    <!-- Right Light bulb -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M71,54a3,3 0 1,1 0,6 3,3 0 1,1 0,-6" />
+
+    <!-- Decorative Chandelier Crystal Drops hanging below -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M53,68 L56,74 L53,80 L50,74 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M35,66 L37,71 L35,76 L33,71 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M71,66 L73,71 L71,76 L69,71 Z" />
+</vector>

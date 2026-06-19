@@ -1,0 +1,6 @@
+{
+  "name": "ناب لوستر",
+  "description": "برنامه رسمی فروشگاه ناب لوستر (nabloostr.com) - گالری لوسترهای لوکس، ثبت سفارش طراحی سفارشی، مجله نورپردازی و پیگیری سفارشات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
